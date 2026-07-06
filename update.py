@@ -43,7 +43,7 @@ def main():
 
     existing_versions = set(output.keys())
 
-    for version, info in data["versions"].items():
+    for version, info in data.items():
         if info.get("title") != "Stable release":
             continue
 
