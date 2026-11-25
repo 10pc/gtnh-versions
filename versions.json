@@ -142,5 +142,13 @@
         "java17_2XUrl": "https://downloads.gtnewhorizons.com/ServerPacks/GT_New_Horizons_2.9.0_Server_Java_17-26.zip",
         "java8_checksum": "c2a8645a49a1ba9e04591fc0564e604a580d9ddb3a7603e14d62abf5523c2850",
         "java17_2X_checksum": "0ab3de26e4d0de80a2df286916570d9af31c3394cb1f44aee8b9aa1f2ead9831"
+    },
+    "2.9.2": {
+        "javaVersion": 26,
+        "releaseDate": "2026/11/25",
+        "java8Url": "https://downloads.gtnewhorizons.com/ServerPacks/GT_New_Horizons_2.9.2_Server_Java_8.zip",
+        "java17_2XUrl": "https://downloads.gtnewhorizons.com/ServerPacks/GT_New_Horizons_2.9.2_Server_Java_17-26.zip",
+        "java8_checksum": "899a28bec4b5c6b37b831b8f20a046993aff857e1eaa9202be73eabcc4a1570d",
+        "java17_2X_checksum": "bbee4620bcbca56902c1b960ff8a6e603a86f2d2801fedc0f9105e7fee8d1cc1"
     }
 }
